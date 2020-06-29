@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5159e5e2b2bfb94182ca0396252f7b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scorePrefab: {fileID: 171100, guid: eadf26893be615147adb4904b5e4d890, type: 3}
+  - scoreParent: {instanceID: 0}
+  - enterName: {instanceID: 0}
+  - nameDialog: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
