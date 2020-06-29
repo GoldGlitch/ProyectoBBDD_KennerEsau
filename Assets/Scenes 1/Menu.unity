@@ -995,8 +995,9 @@ MonoBehaviour:
     de puntaciones que se \npueden registrar es indefinido, no \ntiene limite.\n\nCada
     puntuacion cuenta con un \nnombre de jugador ordenados de \nmayor a menor segun
     el puntaje osea \nva por rankings, tambien incluye la \nfecha de cada puntuacion
-    registrada.\n\nTambien Puedes agregar y eliminar \nnuevos jugadores la base de
-    datos en \ntiempo real, puedes acceder a esa \nfuncion precionando la tecla Esc."
+    registrada.\n\nTambien Puedes agregar nuevos jugadores la base de datos ingresando
+    un nombre o elimar un jugador ingresando su Id en tiempo real, puedes acceder
+    a esa \nfuncion precionando la tecla Esc."
 --- !u!222 &1125555540
 CanvasRenderer:
   m_ObjectHideFlags: 0
